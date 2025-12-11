@@ -24,8 +24,6 @@ public class ChiselItem extends Item {
                     Blocks.GOLD_BLOCK, Blocks.IRON_BLOCK,
                     Blocks.IRON_BLOCK, Blocks.STONE,
                     Blocks.NETHERRACK, ModBlocks.BISMUTH_BLOCK.get()
-
-
             );
 
     public ChiselItem(Properties properties) {
